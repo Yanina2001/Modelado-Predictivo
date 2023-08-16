@@ -1,0 +1,42 @@
+https://www.aprendemachinelearning.com/como-funcionan-las-convolutional-neural-networks-vision-por-ordenador/
+https://datascientest.com/es/convolutional-neural-network-es
+http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0123-42262021000200005
+https://ichi.pro/es/red-neuronal-convolucional-cnn-y-su-aplicacion-todo-lo-que-necesita-saber-266752320713701
+https://www.youtube.com/results?search_query=red+neuronal+cnn
+
+
+https://www.youtube.com/watch?v=ZWwvLWNlgu8
+https://www.youtube.com/watch?v=4sWhhQwHqug
+https://www.youtube.com/watch?v=V8j1oENVz00
+https://www.youtube.com/watch?v=ZWwvLWNlgu8
+
+MINORU
+https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/#:~:text=Multiple%20Layers&text=The%20stacking%20of%20convolutional%20layers,level%20features%2C%20such%20as%20lines
+https://deepai.org/machine-learning-glossary-and-terms/relu
+https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
+
+Efficientnet
+https://www.youtube.com/watch?v=GOxRSefbBoI
+https://iq.opengenus.org/efficientnet/
+
+
+TIPOS DE TUMORES
+https://www.topdoctors.es/diccionario-medico/glioma-cerebral
+https://www.mayoclinic.org/es-es/diseases-conditions/meningioma/symptoms-causes/syc-20355643
+	S
+
+
+MARKDOWN JUPYTER
+https://barcelonageeks.com/celdahttps://github.com/rohansoni634/Healthcare-Provider-Fraud-Detection-Analysis/blob/master/Healthcare%20Provider%20Fraud%20Detection%20Analysis_EDA_First_cut_Models.ipynb-de-markdown-en-el-cuaderno-jupyter/
+
+
+
+
+
+Código clean
+https://github.com/rohansoni634/Healthcare-Provider-Fraud-Detection-Analysis/blob/master/Healthcare%20Provider%20Fraud%20Detection%20Analysis_EDA_First_cut_Models.ipynb
+https://www.kaggle.com/code/farelarden/healthcare-provider-fraud-detection-analysis
+https://www.kaggle.com/code/babar09/healthcare-provider-fraud-detection-analysis
+https://www.kaggle.com/code/akshaypaliwal709/payee-provider-fraud-detection-analysis
+
+

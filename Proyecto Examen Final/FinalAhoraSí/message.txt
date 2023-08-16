@@ -1,0 +1,23 @@
+El aprendizaje por transferencia es una técnica de aprendizaje automático en la que un modelo entrenado en una tarea se reutiliza en una segunda tarea relacionada. Esto se puede hacer congelando los pesos del modelo previamente entrenado y solo entrenando las capas superiores, o ajustando todo el modelo.
+
+EfficientNet es una familia de redes neuronales convolucionales (CNN) que están diseñadas para ser eficientes y precisas. Están capacitados en el conjunto de datos de ImageNet, que contiene más de 1 millón de imágenes con 1000 clases diferentes.
+
+El aprendizaje de transferencia con EfficientNet se puede utilizar para lograr resultados de vanguardia en una variedad de tareas de clasificación de imágenes. Por ejemplo, se ha utilizado para clasificar imágenes de flores, perros y gatos.
+
+Los pasos a seguir para transferir el aprendizaje con EfficientNet son los siguientes:
+
+Descargue el modelo EfficientNet preentrenado.
+Congelar los pesos del modelo pre-entrenado.
+Agregue sus propias capas de clasificación en la parte superior del modelo.
+Entrene las capas superiores en su propio conjunto de datos.
+Los siguientes son algunos de los beneficios de usar el aprendizaje por transferencia con EfficientNet:
+
+Puede ahorrarle mucho tiempo y esfuerzo, ya que no necesita entrenar el modelo desde cero.
+Puede ayudarlo a lograr mejores resultados, ya que el modelo previamente entrenado ya aprendió a extraer características de las imágenes.
+Se puede utilizar para clasificar imágenes de una variedad de dominios diferentes.
+Estos son algunos de los recursos que pueden resultarle útiles:
+
+Transferir aprendizaje con EfficientNet: https://keras.io/examples/vision/image_classification_ficientnet_fine_tuning
+Cómo transferir el aprendizaje con Efficientnet: https://www.dlology.com/blog/transfer-learning-with-ficientnet/
+EfficientNet: replanteamiento del modelo de escalado para redes neuronales convolucionales: https://arxiv.org/abs/1905.11946
+¡Espero que esto ayude! Avíseme si tiene alguna otra pregunta.
